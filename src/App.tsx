@@ -291,8 +291,3 @@ function App() {
 }
 
 export default App;
-{/*
-  border: '2mm ridge rgba(150,150,162,0.8)', backgroundColor: 'rgba(35,35,40,0.8)', borderRadius: '25px' 
-  Initial background color for sections: rgba(35,35,40,0.8) 
-
-*/}
