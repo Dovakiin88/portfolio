@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a685450.css",
+    "main.js": "/static/js/main.a7ae3e53.js",
+    "static/media/binary3.png": "/static/media/binary3.7cb1c26e56bc3807bf56.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ed89f8d147f80d54e4e5.png",
+    "static/media/email-icom.png": "/static/media/email-icom.dc51eabd906c34fb73d2.png",
+    "static/media/AI 2_3.jpg": "/static/media/AI 2_3.5459023604ddb868ce66.jpg",
+    "index.html": "/index.html",
+    "main.8a685450.css.map": "/static/css/main.8a685450.css.map",
+    "main.a7ae3e53.js.map": "/static/js/main.a7ae3e53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.a7ae3e53.js"
+  ]
+}
