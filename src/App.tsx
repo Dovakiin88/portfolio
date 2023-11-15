@@ -6,9 +6,7 @@ import weirdcat from '../src/images/github.png'
 import ai from '../src/images/AI 2_3.jpg';
 import binary3 from '../src/images/binary3.png';
 import Divider from "@mui/material/Divider";
-import { relative } from "path";
-import { grey } from "@mui/material/colors";
-import { url } from "inspector";
+
 
 
 function App() {
