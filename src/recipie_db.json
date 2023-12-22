@@ -1,0 +1,266 @@
+{
+    "Best Recipies": [
+        {
+            "id": 0,
+            "name": "Vietnamese Pho",
+            "description": "A savory vietnamese soup dish containing rice noodles, broth, herbs, and meat of your choice. Delicious!",
+            "cookware": [
+                "Instant port- Minimum 8qt",
+                "Large stock pot",
+                "Fine strainer",
+                "Soup Ladle",
+                "Measurine Cups",
+                "Measuring Spoons"
+            ],
+            "ingredients": [
+                {
+                    "Meats and other Animal Products": [
+                        {
+                            "name": "Oxtail",
+                            "quantity": "1" 
+                        },
+                        {
+                            "name": "Beef Bones",
+                            "quantity": "3-5 Beef bones"
+                        },
+                        {
+                            "name": "Flank steak (Optional)",
+                            "quantity": ".5 lbs"
+                        },
+                        {
+                            "name": "Thin sliced Beef (Ribeye Steak is delicious!)",
+                            "quantity": "10-15 Slices"
+                        },
+                        {
+                            "name": "Tripe (Optional)",
+                            "quantity": "To taste"
+                        }
+                    ]
+                },
+                {
+                    "Spices": [
+                        {
+                            "name": "Black Cardamom",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/cardamom-black-pods/c-24/p-1230/pd-s",
+                                "https://www.spicejungle.com/whole-black-cardamom"
+                            ],
+                            "quantity": "2-4 Pods"
+                        },
+                        {
+                            "name": "Cinnamon Sticks",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/cardamom-black-pods/c-24/p-1230/pd-s",
+                                "https://www.spicejungle.com/cinnamon-sticks-4-inch"
+                            ],
+                            "quantity": "2-3 Sticks"
+                        },
+                        {
+                            "name": "Grey Sea Salt",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/sea-salt-french-coarse-grey/c-24/p-1543/pd-s",
+                                "https://www.spicejungle.com/gray-sea-salt"
+                            ],
+                            "quantity": "To taste. I recommend 1 Tsp"
+                        },
+                        {
+                            "name": "Corriander seeds",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/coriander-whole/c-24/p-1305/pd-s",
+                                "https://www.spicejungle.com/coriander-seed-extra-bold"
+                            ],
+                            "quantity": "1.5 Tbl Spoons or to taste"
+                        },
+                        {
+                            "name": "Star Anise",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/star-anise-whole/c-24/p-1478/pd-s",
+                                "https://www.spicejungle.com/star-anise"
+                            ],
+                            "quantity": "10-14 Pods or to taste"
+                        },
+                        {
+                            "name": "Fennel Seed (Optional)",
+                            "aquired from": "Penzy's Spices or Spice Jungle",
+                            "websites": [
+                                "https://www.penzeys.com/online-catalog/fennel-whole/c-24/p-1343/pd-s",
+                                "https://www.spicejungle.com/fennel-seeds"
+                            ],
+                            "quantity": "To taste"
+                        }
+                    ]
+                },
+                {
+                    "Other Ingredients": [
+                        {
+                            "name": "Fish Sauce",
+                            "aquired from": "Amazon.com",
+                            "websites": "https://www.amazon.com/Boat-Gluten-Free-Premium-Sauce/dp/B07WCMLSQ2/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.d17ca69f-1a39-4f7d-a62f-e5dff4cfd6d8%3Aamzn1.sym.d17ca69f-1a39-4f7d-a62f-e5dff4cfd6d8&crid=1VXJBO33RUYBV&cv_ct_cx=fish%2Bsauce&keywords=fish%2Bsauce&pd_rd_i=B07WCMLSQ2&pd_rd_r=d7cc53ad-9a95-4189-875d-1ab2bd672a50&pd_rd_w=R1XyV&pd_rd_wg=agtzY&pf_rd_p=d17ca69f-1a39-4f7d-a62f-e5dff4cfd6d8&pf_rd_r=A8W8JVSTFDWCT0K2JW0T&qid=1702494126&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=fish%2Bsauce%2Caps%2C130&sr=1-3-364cf978-ce2a-480a-9bb0-bdb96faa0f61-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+                            "quantity": "8 Tbl spoons"
+                        },
+                        {
+                            "name": "Rock Sugar",
+                            "aquired from": "Amazon.com",
+                            "websites": "https://www.amazon.com/Lung-Po-crystals-Candy-Yellow/dp/B072P2G5PP/ref=sr_1_6?crid=2U5N6KYAY99UW&keywords=rock+sugar&qid=1702494437&s=grocery&sprefix=Rock+su%2Cgrocery%2C122&sr=1-6",
+                            "quantity": "2-3 Large Chunks or to desired sweetness"
+                        }
+                    ]
+                },
+                {
+                    "Vegetables & Herbs": [
+                        {
+                            "name": "Medium to Large Yellow Onion",
+                            "quantity": "1"
+                        },
+                        {
+                            "name": "Ginger",
+                            "quantity": "1 large piece"
+                        },
+                        {
+                            "name": "White Onion",
+                            "quantity": "1"
+                        },
+                        {
+                            "name": "Basil",
+                            "quantity": "To taste"
+                        },
+                        {
+                            "name": "Green Onion",
+                            "quantity": "To taste"
+                        }
+                    ]
+                }
+            ],
+            "directions": [
+                {
+                    "Using a Stockpot": [
+                        "First be sure to prep the vegetables. Rinsing them with water is just fine. Chop ends off of yellow onion. Chop the green onion for use later as it is a topping. Peel the ginger with a potato peeler ",
+                        "Toast your yellow onion and ginger until there is a small amount of char on each side. Toast spices, with the exception of the salt, until aromatic",
+                        "Bring enough water to cover all the meat you intend use by an inch to a boil. Bones, flank streak, oxtail and tripe if used. Boil meat for 10 mins to clean them",
+                        "Once meat is boiled, clean stock pot and fill with fresh water. Add meat, yellow onion and ginger, and aromatics",
+                        "Add 8 TBL spoons of fish sauce, rock sugar and the sea salt. When the Pho is done you can add more fish sauce to taste",
+                        "Bring soup to a boil and then immediately turn down to a simmer.",
+                        "Simmer for 12-16 hours uncovered. You will need to remove the frothy accumilate that will form on the top of the soup. You will also need to top off the soup with fresh water when it gets low. Just return it to the origional height",
+                        "I highly recommend leaving it alone; however, if you must stir, DO SO GENTLY! Stiring can make things come apart, making the soup harder to strain",
+                        "When time is up, remove flank streak and shred. Cook rice noodles according to directions on package. Rinse in cold water when they are done to stop the cooking process",
+                        "Place noodles in bowl. Put RAW thin sliced ribeye over the noodles. Turn off heat to broth. With at strainer over the bowl, ladle the broth into the bowl. The broth will cook the ribeye",
+                        "Add thin slices of white onion, the chopped green onion, some of the shredded flank steak and the basil",
+                        "Enjoy!"
+                    ],
+                    "Using a pressure Cooker": [
+                        "First be sure to prep the vegetables. Rinsing them with water is just fine. Chop ends off of yellow onion. Chop the green onion for use later as it is a topping. Peel the ginger with a potato peeler ",
+                        "Toast your yellow onion and ginger until there is a small amount of char on each side. Toast spices, with the exception of the salt, until aromatic",
+                        "Fill the bowl of the pressure cooker halfway. Cut the amount of ingredients by half. YOU DO NOT WANT TO OVERFILL YOUR PRESSURE COOKER ",
+                        "Given that there are different sizes and sytle pressure cookers, you will have to do some experimening. PLEASE START WITH HALF THE INGREDIENTS",
+                        "Add 8 TBL spoons of fish sauce, rock sugar and the sea salt. When the Pho is done you can add more fish sauce to taste",
+                        "Firmly secure the bulkhead (lid), ensure that steam cannot escape, and set the cookers to you soup setting for 1.5-2 hours",
+                        "When time is up, remove flank streak and shred. Cook rice noodles according to directions on package. Rinse in cold water when they are done to stop the cooking process",
+                        "Place noodles in bowl. Put RAW thin sliced ribeye over the noodles. With at strainer over the bowl, ladle the broth into the bowl. The broth will cook the ribeye",
+                        "Add thin slices of white onion, the chopped green onion, some of the shredded flank steak and the basil",
+                        "Enjoy!"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Ground Beef stroganoff",
+            "description": "A variation of a very tasty russian dish with ground beef and egg noodles",
+            "cookware": [
+                "Large Frying pan",
+                "Pot to cook egg noodles"
+            ],
+            "ingredients":[
+                {
+                    "Meat": [
+                        {
+                            "name": "Ground Beef",
+                            "quantity": " 1 lb. You can add more if you like alot of meat"
+                        }
+                    ]
+                },
+                {
+                    "Spices":[
+                        {
+                            "name": " Black Pepper",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Salt",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Paprika",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Garlic Powder",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Onion Powder",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Parsley",
+                            "quantity": "to taste. 1/2 Tsp start with"
+                        },
+                        {
+                            "name": "Cumin (optional)",
+                            "quantity": "To taste or start with 1 Tsp"
+                        },
+                        {
+                            "name": "Cayenne Pepper (optional)",
+                            "quantity": "To taste or start with 1 Tsp"
+                        }
+                    ]
+                },
+                {
+                    "other ingredients":[
+                        {
+                            "name": "Cream of Mushroom Soup",
+                            "Quantity": "1 can"
+                        },
+                        {
+                            "name": "Egg Noodles",
+                            "Quantity": "1 Package"
+                        },
+                        {
+                            "name": "Olive Oil",
+                            "Quantity": "2 TBL spoons"
+                        }
+                    ]
+                },
+                {
+                    "Vegetables and Herbs": [
+                        {
+                            "name": "White or Yellow Onion (Optional)",
+                            "Quantity": "1/4 of onion or To taste"
+                        },
+                        {
+                            "name": "Fresh Parsley",
+                            "Quantity": "To taste"
+                        }
+                    ]
+                }
+            ],
+            "directions":[
+                {
+                    "Stove Top": [
+                        "Place frying pan on medium low heat. Oil pan.",
+                        "Add ground beef and season to taste. Once the ground beef is cooked completely, taste to make sure you like it! Otherwise add more seasoning",
+                        "Add 1 can of cream of mushroom soup stir in",
+                        "Simmer for 5-8 mins. Meanwhile cook egg noodles according to directions.",
+                        "Once the meat is cooked, remove from heat. add noodels.",
+                        "Enjoy!"
+                    ]
+                }
+            ]
+        }
+    ]
+}
