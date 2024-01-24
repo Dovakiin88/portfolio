@@ -20,20 +20,6 @@ function App() {
     <Box sx={{ backgroundImage: `url(${binary3})`, backgroundSize: 'cover', backgroundPosition: 'center center', width: '100%', height: '100%' }}>
 
       <Box sx={{ width: '1210px', margin: 'auto', display: "flex", flexDirection: isMobile ? 'column' : 'column' }}>
-        <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly', backgroundColor: 'black' }}>
-          <div>
-            <a href="https://www.linkedin.com/in/ashley-andrews-software-engineer-873666238/">LinkedIn</a>
-          </div>
-
-          <div>
-            <a href="mailto:ashlyvand1@gmail.com">Email</a>
-          </div>
-
-          <div>
-            <a href="https://github.com/Dovakiin88?tab=repositories">Git Hub</a>
-          </div>
-
-        </Box>
         <Box sx={{ position: 'relative', justifyContent: 'center', alignItems: 'center', display: 'flex', flexDirection: "column", backgroundColor: 'black' }}>
 
           <Box sx={{ backgroundColor: 'black', justifyContent: 'center' }}>
