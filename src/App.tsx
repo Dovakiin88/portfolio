@@ -14,11 +14,11 @@ import { Link } from 'react-router-dom';
 
 function App() {
 
-  const isMobile = useMediaQuery({ maxWidth: 767})
+  const isMobile = useMediaQuery({ maxWidth: 767 })
 
   return (
     <Box sx={{ backgroundImage: `url(${binary3})`, backgroundSize: 'cover', backgroundPosition: 'center center', width: '100%', height: '100%' }}>
-      
+
       <Box sx={{ width: '1210px', margin: 'auto', display: "flex", flexDirection: isMobile ? 'column' : 'column' }}>
         <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly', backgroundColor: 'black' }}>
           <div>
@@ -67,7 +67,7 @@ function App() {
           <Divider sx={{ bgcolor: '#8c8c8c' }} variant="middle" />
         </Box>
 
-        
+
       </Box>
     </Box>
   );

@@ -34,8 +34,8 @@ export default function BIO() {
                     </p>
                     <p style={{ textAlign: 'justify', }}>
                       <span style={{ display: 'inline-block', marginLeft: '2em', marginRight: '1em' }}>&nbsp;</span>
-                      For about 8 years, i have worked in the insurance industry as a claims adjuster; Particuralry Toal loss, auto liability, bodily injury, commercial and emergency
-                      property. I also have experience engaging with and presenting to corporate and legal entities on behalf of consumers. I have experience in negotiation; Now while it
+                      For about 8 years, i have worked in the insurance industry as a claims adjuster; Particurlarly Total loss, auto liability, bodily injury, commercial and emergency
+                      property claims. I also have experience engaging with and presenting to corporate and legal entities on behalf of consumers. I have extensive experience in negotiation, writing and analyzing reports and comminucation; Now while it
                       pertained to total loss and bodily injury settlements, it still honed my ability to acheive mutual agreements with others. I have a Masters degree in business administration
                       with a concentration in finance therefore i have a glimpse into both the consumer and business side.
                     </p>
@@ -46,7 +46,9 @@ export default function BIO() {
                       <span style={{ display: 'inline-block', marginLeft: '2em', marginRight: '1em' }}>&nbsp;</span>
                       I am currrenty attending Purdue Global to pursue my masters in Information Technology with a concentration in cyber security.
                       While I specialize in software engineering, I also have experience in Data Analysis, and junior level penetration testing.
-                      I am seeking to join a company that will allow me to put my skills to use but will also help me grow.
+                      While i may not have the number years of experience required for any one position, I am more than able to learn adapt and perform. I have a 4.0 in my masters programs 
+                      which strongly recommended that students have a minimum of 5 years IT experience for success. I had no prior IT experience. I was able to keep up with a bootcamp having zero web development experience or
+                      prior knowledge.  
                     </p>
                   </article>
                 </Typography>
@@ -121,7 +123,7 @@ export default function BIO() {
               </Box>
           </Box>
           <h2 style={{ color: 'white',textAlign: 'center', marginTop: '100px', fontSize: '40px', fontFamily: 'monospace', marginBottom: '15px'  }}>Certifications</h2>
-          <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly', fontSize: '15px' }}>
+          <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly', fontSize: '15px', paddingBottom: '15px' }}>
             <Box sx={{ textAlign: "center", color: 'white', fontFamily: 'monospace', marginTop: '0px' }}>
               KPMG AU Data Analyst Job Simulation (2023)
             </Box>
